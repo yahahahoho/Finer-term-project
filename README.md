@@ -1,2 +1,2 @@
-# Finer-term-project
+# Final-term-project
 35.03.17
